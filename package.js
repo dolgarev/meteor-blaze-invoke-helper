@@ -1,7 +1,7 @@
 /* global Package */
 
 Package.describe({
-  name: 'liberation:meteor-blaze-invoke-helper',
+  name: 'liberation:blaze-invoke-helper',
   version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'Expose UI helpers Blaze._globalHelpers via new method Blaze.invokeHelper',
